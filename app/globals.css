@@ -28,6 +28,7 @@
   width: 3px;
   height: 3px;
   border-radius: 2px;
+  text-align: 200;
 }
 
 .custom-scrollbar::-webkit-scrollbar-track {
